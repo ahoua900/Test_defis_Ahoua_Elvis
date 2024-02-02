@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TEST_DEFIS_APP.props" />
+</Project>
